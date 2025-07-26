@@ -1,0 +1,16 @@
+streamlit
+requests
+fpdf2
+pillow
+selenium
+webdriver-manager
+beautifulsoup4
+langchain
+langchain-core
+langchain-groq
+groq
+SpeechRecognition
+python-dotenv
+pyttsx3
+plotly
+pandas
